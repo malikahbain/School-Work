@@ -1,6 +1,3 @@
-# Malikah Bain - 101240163
-# Mikaeli Bain - 101240164
-# Marie Blais - 101223172
 #Question 3
 
 import random
